@@ -8,11 +8,11 @@ Este repositorio possue os dados da atvidade que compreende criar um repositorio
 1. **Criação e Clonagem do Repositório:**
    - Criei o repositório público `POO` na minha conta do GitHub.
    - Clonei o repositório no meu Ubuntu usando `git clone https://github.com/Joaogabriel0207/POO`.
-  !(Screenshot%20From%202026-11-02%2022-28-20.png)
+  ![clone](Screenshot%20From%202026-11-02%2022-28-20.png)
 
 2. **Edição na Branch Main:**
    - Utilizei o `nano` para criar o arquivo `teste.java` contendo um código de Hello World.
-  !(Screenshot From 2026-11-02 22-32-06.png)
+  ![nano](Screenshot From 2026-11-02 22-32-06.png)
    - O arquivo criado foi adicionado ao staging com `git add teste.java`), registradas localmente com `git commit -m "feat: adiciona o Hello World"` e enviadas ao GitHub com `git push origin main`.
 
 3. **Criação de um Ramo Alternativo (`Bye-World`):**
