@@ -11,12 +11,15 @@ Este repositorio possue os dados da atvidade que compreende criar um repositorio
   ![clone](Screenshot%20From%202026-11-02%2022-28-20.png)
 
 2. **Edição na Branch Main:**
-   - Utilizei o `nano` para criar o arquivo `teste.java` contendo um código de Hello World.
-![Nano](Screenshot%20From%202026-11-02%2022-32-06.png)
-   - O arquivo criado foi adicionado ao staging com `git add teste.java`), registradas localmente com `git commit -m "feat: adiciona o Hello World"` e enviadas ao GitHub com `git push origin main`.
+   - Entrei no diretório com `CD POO` e utilizei o `nano` para criar o arquivo `teste.java` contendo um código de Hello World.
+   - Me identifique com email e senha usando `git config --global`.
+   - O arquivo criado foi adicionado ao staging com `git add teste.java`, registradas localmente com `git commit -m "feat: adiciona o Hello World"` e enviadas ao GitHub com `git push origin main`.
+
 ![Screenshot 1](Screenshot%20From%202026-11-02%2023-23-46.png)
 
 ![Screenshot 2](Screenshot%20From%202026-11-02%2023-24-06.png)
+
+![Nano](Screenshot%20From%202026-11-02%2022-32-06.png)
 
 
 3. **Criação de um Ramo Alternativo (`Bye-World`):**
